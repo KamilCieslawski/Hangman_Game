@@ -1,5 +1,5 @@
 # Hangman Game
 
-A simple and cool-looking browes game using Angular2!
+A simple yet cool-looking browes game using Angular2! My first public repo too!
 
 
