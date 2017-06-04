@@ -1,5 +1,5 @@
-# ReactJS
+# Hangman Game
 
-Hello there!
+A simple and cool-looking browes game using Angular2!
 
-My name is Kamil and I am learning to become a Front-End Developer. This is my first repository!
+
